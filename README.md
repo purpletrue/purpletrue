@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <br>
 <Strong>📧Email📧</Strong>
-<br>yu9jin9@gmail.com<br><br><br>
+<br><br>yu9jin9@gmail.com<br><br><br>
 
 <Strong>⚒️Tech Stack⚒️</Strong>
 <br><br>
